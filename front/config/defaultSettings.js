@@ -10,7 +10,7 @@ const proSettings = {
   menu: {
     locale: true,
   },
-  title: '昕阳健身管理',
+  title: '昕阳健身管理1',
   pwa: false,
   iconfontUrl: '',
 };
